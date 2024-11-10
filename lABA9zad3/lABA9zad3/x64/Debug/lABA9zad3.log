@@ -1,0 +1,3 @@
+﻿zal.obj : error LNK2019: ссылка на неразрешенный внешний символ fa в функции main.
+zal.obj : error LNK2019: ссылка на неразрешенный внешний символ fa2 в функции main.
+C:\Users\ПК\source\repos\lABA9zad3\x64\Debug\lABA9zad3.exe : fatal error LNK1120: неразрешенных внешних элементов: 2
