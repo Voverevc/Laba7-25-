@@ -1,0 +1,4 @@
+﻿  laba7.c
+C:\Users\ПК\source\repos\laba7 zad 2\laba7 zad 2\laba7.c(31,2): warning C4098: main: функция типа "void", возвращающая значение
+C:\Users\ПК\source\repos\laba7 zad 2\laba7 zad 2\laba7.c(9,14): warning C4101: otvet: неиспользованная локальная переменная
+  laba7 zad 2.vcxproj -> C:\Users\ПК\source\repos\laba7 zad 2\x64\Debug\laba7 zad 2.exe
